@@ -13,7 +13,7 @@ public class Main {
         System.out.println("The home maintenance cost for the fall season is " + fall);
         System.out.println("The home maintenance cost for the winter season is " + winter);
         System.out.println("The yearly home maintenance cost is " + total);
-    
+
 
 
 
